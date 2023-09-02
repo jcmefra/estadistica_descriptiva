@@ -1,6 +1,6 @@
 # Apuntes de Curso: Matemáticas para Data Science - Estadística Descriptiva
 
-Bienvenido a este repositorio de apuntes del curso "Matemáticas para Data Science: Estadística Descriptiva". Este curso se centra en proporcionar una comprensión sólida de la estadística descriptiva en el contexto de la Ciencia de Datos. Aquí encontrarás apuntes detallados y recursos útiles para ayudarte a comprender y aplicar los conceptos estadísticos en el mundo del Data Science.
+Bienvenido a este repositorio de apuntes del curso "Matemáticas para Data Science: Estadística Descriptiva" de Platzi. Este curso se centra en proporcionar una comprensión sólida de la estadística descriptiva en el contexto de la Ciencia de Datos. Aquí encontrarás apuntes detallados y recursos útiles para ayudarte a comprender y aplicar los conceptos estadísticos en el mundo del Data Science.
 
 ## Acerca del Curso
 
